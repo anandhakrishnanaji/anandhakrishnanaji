@@ -2,15 +2,20 @@
 
 <!--
 **anandhakrishnanaji/anandhakrishnanaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [TuneSwitch](https://github.com/anandhakrishnanaji/TuneSwitch)
+- 🌱 I’m currently learning about Blockchain
+- 👯 I’m looking to collaborate on App dev projects
+- 💬 Ask me about Flutter and python
+- ⚡ Fun fact: I spent more than an hour for this
+
+[![](https://img.shields.io/badge/Linkedin-Connect-Blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/anandha-krishnan-aji-b937491a0/)
+[![](https://img.shields.io/badge/Codechef-CheckOut!-Brown?style=flat&logo=Codechef)](https://www.codechef.com/users/anandhakris)
+![HitCount](http://hits.dwyl.com/anandhakrishnanaji/anandhakrishnanaji.svg)
+
+
+
+
+
+
