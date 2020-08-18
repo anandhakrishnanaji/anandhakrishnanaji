@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on [TuneSwitch](https://github.com/anandhakrishnanaji/TuneSwitch)
-- 🌱 I’m currently learning about Blockchain
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on App dev projects
 - 💬 Ask me about Flutter and python
 - ⚡ Fun fact: I spent more than an hour for this
