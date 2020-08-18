@@ -13,6 +13,7 @@
 
 [![](https://img.shields.io/badge/Linkedin-Connect-Blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/anandha-krishnan-aji-b937491a0/)
 [![](https://img.shields.io/badge/Codechef-CheckOut!-Brown?style=flat&logo=Codechef)](https://www.codechef.com/users/anandhakris)
+[![](https://img.shields.io/badge/Latest-Project-Yellow?style=flat&logo=HTML)](https://github.com/anandhakrishnanaji/RESQ-Backend)
 ![HitCount](http://hits.dwyl.com/anandhakrishnanaji/anandhakrishnanaji.svg)
 
 
