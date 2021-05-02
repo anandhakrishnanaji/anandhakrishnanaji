@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on App dev projects
 - 💬 Ask me about Flutter and python
 - ⚡ Fun fact: I spent more than an hour for this
+- ✨ Get to know me more at [anandhakris.ml](http://www.anandhakris.ml)
 
 [![](https://img.shields.io/badge/Linkedin-Connect-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/anandha-krishnan-aji-b937491a0/)
 [![](https://img.shields.io/badge/Latest-Project-yellow?style=flat&logo=HTML)](https://github.com/anandhakrishnanaji/TuneSwitch)
