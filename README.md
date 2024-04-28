@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anandhakrishnanaji-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anandhakrishnanaji)](https://www.linkedin.com/in/anandhakrishnanaji)
 [![Medium Badge](https://img.shields.io/badge/-@anandhakris-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@anandhakris)](https://medium.com/@anandhakris)
-[![Twitter Badge](https://img.shields.io/badge/-@anandhakris-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@anandhakris)](https://twitter.com/anandhakris7)
+[![Twitter Badge](https://img.shields.io/badge/-@anandhakris7-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anandhakris7)](https://twitter.com/anandhakris7)
 [![Instagram Badge](https://img.shields.io/badge/-@a.nandhakris-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/a.nandhakris)](https://instagram.com/a.nandhakris)
 [![Gmail Badge](https://img.shields.io/badge/-creattech2000-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:creattech2000@gmail.com)](mailto:creattech2000@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanandhakrishnanaji%2F&count_bg=%2379C83D&title_bg=%23555555&icon=verizon.svg&icon_color=%232CFF01&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
