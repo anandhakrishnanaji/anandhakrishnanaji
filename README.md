@@ -19,6 +19,4 @@ Welcome to my profile! I'm a software engineer, part-time reader, and full-time 
 - 👯 I’m looking to talk about development and tech.
 - 💬 Ask me about Python and Ruby on Rails.
 - ✨ Get to know me more at [anandhakris.ml](http://www.anandhakris.ml).
-- 📚 Here's my [reading list](https://anandhakris.notion.site/840be1c3bd554abdbdf92eefd5209b50?v=5b6834da8d1542a39e26736f67eb3caa&pvs=4).
-
 
