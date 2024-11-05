@@ -18,5 +18,5 @@ Welcome to my profile! I'm a software engineer, part-time reader, and full-time 
 - 🌱 I’m currently learning ML.
 - 👯 I’m looking to talk about development and tech.
 - 💬 Ask me about Python and Ruby on Rails.
-- ✨ Get to know me more at [anandhakris.ml](http://www.anandhakris.com).
+- ✨ Get to know me more at [anandhakris.com](http://www.anandhakris.com).
 
